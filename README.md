@@ -1,12 +1,12 @@
-# Tasks
+## Organisation de JDIS
 
 Ce repo sert à discuter de l'organisation de JDIS. Que ce soit des idées ou des points à aborder lors de nos rencontres, si on a pas à garder ça privé, ça se retrouve ici.
 
-## Pourquoi?
+### Pourquoi?
 
-On veut que JDIS soit au couleurs de ses membres. On essaie donc d'être le plus transparent possible pour vous faire participer.
+On veut que JDIS soit aux couleurs de ses membres. On essaie donc d'être le plus transparent possible pour vous faire participer.
 
-## Comment je contribue?
+### Comment je contribue?
 
 Facile! Il ne suffit que d'ouvrir un *issue* ou de commenter sur les issues déjà ouverts.
 https://github.com/JDIS/Organisation/issues
