@@ -1,6 +1,7 @@
 ## Organisation de JDIS
 
 Ce repo sert à discuter de l'organisation de JDIS. Que ce soit des idées ou des points à aborder lors de nos rencontres, si on a pas à garder ça privé, ça se retrouve ici.
+
 Note: pour le CE, guide-jdis -> https://github.com/JDIS/guide-jdis
 
 ### Pourquoi?
