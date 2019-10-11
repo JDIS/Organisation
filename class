@@ -1,0 +1,24 @@
+#include<iostream.h>
+using namespace std;
+class intro
+{
+  int roll_no;      // declaring class data members
+  char name[20];
+  public: void getdata()     //defining member function implicitly
+  {
+   cout<<"\n enter roll no and name :";
+   cin>>rollno>>rollno;
+  }
+  void dispdata();
+  };
+  void intro::dispdata()        //defining memeber function explicitly
+  {
+   cout<<"\n rollno:"<<rollno<<"\n name:"<<name;
+  }
+  void main()
+  {
+  intro obj;                  //object declaration
+  obj.getdata();                //function calling via object of the class
+  obj.dispdata();
+  getch();
+  }
