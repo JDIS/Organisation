@@ -15,7 +15,7 @@ https://github.com/JDIS/Organisation/issues
 
 Vous êtes invités à proposer des idées et donner des commentaires!
 
-**Note: Pour chaque *issue* ouvert, un post sera fait sur notre serveur Slack ( https://jdis.slack.com/ ) pour informer les gens.**
+**Note: Pour chaque *issue* ouvert, un post sera fait sur notre serveur Discord ( https://discord.gg/rNhbDSP/ ) pour informer les gens.**
 
 ### Comment savoir quels événements s'en viennent?
 
